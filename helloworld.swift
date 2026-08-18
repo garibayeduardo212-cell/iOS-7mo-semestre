@@ -1,0 +1,1 @@
+scrip("hello world")
